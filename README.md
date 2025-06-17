@@ -15,5 +15,8 @@ Pesan akan dienkripsi dengan cara digeser ke kanan jika nilai pergeseran positif
 Untuk proses dekripsi, langkah-langkah dilakukan secara terbalik: geseran dikembalikan sesuai dengan logika, dan jika pesan awalnya dibalik, maka hasil dekripsi juga akan dibalik kembali.
 Program ini menggunakan array, vector, pointer, looping (for), dan percabangan (if-else), serta dipisahkan ke dalam file header agar terstruktur dan sesuai dengan prinsip modular.
 
-https://youtu.be/3ihFZYCOd6Y
 
+![WhatsApp Image 2025-06-17 at 20 37 53_a3f0df18](https://github.com/user-attachments/assets/cf242cbf-2232-44b6-a886-ac291d799ff5)
+![WhatsApp Image 2025-06-17 at 20 38 06_0dd52589](https://github.com/user-attachments/assets/32deed81-0a3d-47a2-b844-8a00583f5e71)
+
+Link YouTube : https://youtu.be/3ihFZYCOd6Y
